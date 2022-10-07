@@ -31,14 +31,14 @@ table width of top of diamond relative to widest point (43--95)
 1. Data:
 train.csv, test.csv - the training and testing set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
 
-2.Model1 - model #1 with the lowest RMSE, that got into top15 places in the Kaggle competition "https://www.kaggle.com/competitions/shai-ml/"
+2. Model1 - model #1 with the lowest RMSE, that got into top15 places in the Kaggle competition "https://www.kaggle.com/competitions/shai-ml/"
 
-3.Model2 - model #2, where we tested features permutations, and got 2nd best outcome with the least number of features.
+3. Model2 - model #2, where we tested features permutations, and got 2nd best outcome with the least number of features.
 
-4.Model3 - model #3, first model built.
+4. Model3 - model #3, first model built.
 
-5.Presentation - the presentation we prepared for the judging. ("https://docs.google.com/presentation/d/1djIlhnmHlr0i1hm3Mpgs-pgPxX66GeIVuclGC49MKWE/edit?usp=sharing")
+5. Presentation - the presentation we prepared for the judging. ("https://docs.google.com/presentation/d/1djIlhnmHlr0i1hm3Mpgs-pgPxX66GeIVuclGC49MKWE/edit?usp=sharing")
 
-6.EDA - Exploratory data analysis file of the Diamond Prediction data.
+6. EDA - Exploratory data analysis file of the Diamond Prediction data.
 
 ~
