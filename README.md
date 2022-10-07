@@ -32,6 +32,9 @@ train.csv - the training set
 test.csv - the test set
 sample_submission.csv - a sample submission file in the correct format
 Columns
+
 example_id - definition of example_id
+
 feature_1 - definition of feature_1
+
 etc.
