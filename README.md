@@ -32,10 +32,15 @@ train.csv - the training set (Available on Kaggle's competition "https://www.kag
 test.csv - the test set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
 sample_submission.csv - a sample submission file in the correct format (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
 
+
 Model1 - model #1 with the lowest RMSE, that got into top15 places in the Kaggle competition "https://www.kaggle.com/competitions/shai-ml/"
+
 Model2 - model #2, where we tested features permutations, and got 2nd best outcome with the least number of features.
+
 Model3 - model #3, first model built.
-Presentation - the presentation we prepared for the judging.
+
+Presentation - the presentation we prepared for the judging. ("https://docs.google.com/presentation/d/1djIlhnmHlr0i1hm3Mpgs-pgPxX66GeIVuclGC49MKWE/edit?usp=sharing")
+
 EDA - Exploratory data analysis file of the Diamond Prediction data.
 
 
