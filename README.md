@@ -40,3 +40,5 @@ train.csv, test.csv - the training and testing set (Available on Kaggle's compet
 5.Presentation - the presentation we prepared for the judging. ("https://docs.google.com/presentation/d/1djIlhnmHlr0i1hm3Mpgs-pgPxX66GeIVuclGC49MKWE/edit?usp=sharing")
 
 6.EDA - Exploratory data analysis file of the Diamond Prediction data.
+
+~
