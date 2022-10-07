@@ -28,20 +28,15 @@ depth total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 table width of top of diamond relative to widest point (43--95)
 
 ### Files
-train.csv - the training set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
-test.csv - the test set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
-sample_submission.csv - a sample submission file in the correct format (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
+1. Data:
+train.csv, test.csv - the training and testing set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
 
+2.Model1 - model #1 with the lowest RMSE, that got into top15 places in the Kaggle competition "https://www.kaggle.com/competitions/shai-ml/"
 
-Model1 - model #1 with the lowest RMSE, that got into top15 places in the Kaggle competition "https://www.kaggle.com/competitions/shai-ml/"
+3.Model2 - model #2, where we tested features permutations, and got 2nd best outcome with the least number of features.
 
-Model2 - model #2, where we tested features permutations, and got 2nd best outcome with the least number of features.
+4.Model3 - model #3, first model built.
 
-Model3 - model #3, first model built.
+5.Presentation - the presentation we prepared for the judging. ("https://docs.google.com/presentation/d/1djIlhnmHlr0i1hm3Mpgs-pgPxX66GeIVuclGC49MKWE/edit?usp=sharing")
 
-Presentation - the presentation we prepared for the judging. ("https://docs.google.com/presentation/d/1djIlhnmHlr0i1hm3Mpgs-pgPxX66GeIVuclGC49MKWE/edit?usp=sharing")
-
-EDA - Exploratory data analysis file of the Diamond Prediction data.
-
-
-etc.
+6.EDA - Exploratory data analysis file of the Diamond Prediction data.
