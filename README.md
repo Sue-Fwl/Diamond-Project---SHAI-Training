@@ -28,13 +28,15 @@ depth total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 table width of top of diamond relative to widest point (43--95)
 
 ### Files
-train.csv - the training set
-test.csv - the test set
-sample_submission.csv - a sample submission file in the correct format
-Columns
+train.csv - the training set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
+test.csv - the test set (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
+sample_submission.csv - a sample submission file in the correct format (Available on Kaggle's competition "https://www.kaggle.com/competitions/shai-ml/" )
 
-example_id - definition of example_id
+Model1 - model #1 with the lowest RMSE, that got into top15 places in the Kaggle competition "https://www.kaggle.com/competitions/shai-ml/"
+Model2 - model #2, where we tested features permutations, and got 2nd best outcome with the least number of features.
+Model3 - model #3, first model built.
+Presentation - the presentation we prepared for the judging.
+EDA - Exploratory data analysis file of the Diamond Prediction data.
 
-feature_1 - definition of feature_1
 
 etc.
